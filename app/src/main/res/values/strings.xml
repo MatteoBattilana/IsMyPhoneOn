@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Is my phone on?</string>
+    <string name="action_settings">Settings</string>
+    <string name="git_icon">&#xf09b;</string>
+</resources>
